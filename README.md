@@ -1,4 +1,4 @@
-**Project Title: Climate Change and Nutritional Inequalities**
+**Global Analysis of Food Crops and Climate Change II**
 
 **Authors:**
 - Devyani Srivastava
